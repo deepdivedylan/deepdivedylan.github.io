@@ -10,7 +10,7 @@ Needs for secure messaging have been made severely obvious by recent events:
 * Mike Pence
 * Celebrity iCloud Nude Photo Leaks
 
-![Hillary Clinton][hillary]
+![Hillary Clinton][hillary]{: .img-responsive}
 
 As the political sphere is heating up with this topic, this only reinforces
 the need for further use of secure messaging.
