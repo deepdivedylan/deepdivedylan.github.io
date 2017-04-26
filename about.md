@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about-me/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<div class="row">
+	<div class="col-md-6">
+		<img class="img-responsive" src="/assets/images/deepdivedylan.png" />
+	</div>
+	<div class="col-md-6">
+		Dylan McDonald is the instructor of the CNM STEMulus Deep Dive Fullstack
+		in Albuquerque. He is a Certified Ethical Hacker (CEH) and has been
+		writing secure web applications for over a decade. He is a member of
+		the Electronic Frontier Foundation (EFF) and has a long history
+		advocacy for digital rights.
+	</div>
+</div>
