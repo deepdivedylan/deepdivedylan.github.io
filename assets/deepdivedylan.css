@@ -7,6 +7,22 @@
 html { display: flex;}
 body { width: 100%;}
 
+footer.footer {
+  padding: 10px 0;
+  background: #f8f8f8;
+  border: 1px solid #e7e7e7;
+}
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+}
+ {
+  list-style: none;
+  margin-left: 0;
+}
+
 .sfooter {
   display: flex;
   flex-direction: column;
