@@ -41,6 +41,13 @@ methods may not be foolproof?
 when messaging to and from Apple devices
 {: .fa-ul}
 
-
+## Off The Record (OTR) <i class="fa fa-apple"></i> <i class="fa fa-android"></i> <i class="fa fa-linux"></i> <i class="fa fa-windows"></i>
+* <i class="fa fa-li fa-thumbs-o-up"></i> widely supported service agnostic
+plugin that supports every operating system under the sun
+* <i class="fa fa-li fa-thumbs-o-down"></i> Awkward installation experience
+requires both sides manually install OTR plugins
+* <i class="fa fa-li fa-hand-o-right"></i> pioneer of secure messaging is
+beginning to look long in the tooth
+{: .fa-ul}
 
 [choose-wisely]: /assets/images/choose-wisely.jpg
