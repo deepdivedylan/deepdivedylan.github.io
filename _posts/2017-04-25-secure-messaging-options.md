@@ -13,7 +13,16 @@ encryption at all.
 
 ![You Must Choose][choose-wisely]{: .img-responsive}
 
-## <i class="fa fa-whatsapp"></i> WhatsApp
+## Signal <i class="fa fa-apple"></i> <i class="fa fa-android"></i>
+
+* <i class="fa fa-li fa-thumbs-o-up"></i> easy to use app that is designed to
+be encrypted from the ground up, encrypted WiFi calling
+* <i class="fa fa-li fa-thumbs-o-down"></i> none
+* <i class="fa fa-li fa-hand-o-right"></i> a flawless installation experience
+make this a "must have" for anybody doing secure messaging
+{: .fa-ul}
+
+## <i class="fa fa-whatsapp"></i> WhatsApp <i class="fa fa-apple"></i> <i class="fa fa-android"></i>
 
 * <i class="fa fa-li fa-thumbs-o-up"></i> commonly used app that uses end-to-end
 encryption by default
@@ -22,5 +31,16 @@ unencrypted with no security at all
 * <i class="fa fa-li fa-hand-o-right"></i> recommended for most end users
 because of its ubiquity and ease-of-use
 {: .fa-ul}
+
+## iMessage <i class="fa fa-apple"></i>
+* <i class="fa fa-li fa-thumbs-o-up"></i> iPhone users enjoy encryption out of
+the box without any effort whatsoever
+* <i class="fa fa-li fa-thumbs-o-down"></i> Apple's proprietary encryption
+methods may not be foolproof?
+* <i class="fa fa-li fa-hand-o-right"></i> great configuration-free encryption
+when messaging to and from Apple devices
+{: .fa-ul}
+
+
 
 [choose-wisely]: /assets/images/choose-wisely.jpg
