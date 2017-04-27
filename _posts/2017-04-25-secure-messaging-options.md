@@ -59,4 +59,17 @@ the average end user
 for convenience, and it shows
 {: .fa-ul}
 
+## Telegram <i class="fa fa-mobile"></i> <i class="fa fa-android"></i>
+
+* <i class="fa fa-li fa-thumbs-o-up"></i> none
+* <i class="fa fa-li fa-thumbs-o-down"></i> security researchers have questioned
+Telegram's algorithmic architecture
+* <i class="fa fa-li fa-hand-o-right"></i> avoid Telegram at all costs
+{: .fa-ul}
+
+### Citations on Telegram
+* [On the CCA (in)security of MTProto](https://eprint.iacr.org/2015/1177.pdf)
+* [Operational Telegram](https://medium.com/@thegrugq/operational-telegram-cbbaadb9013a)
+* [Hacker News](https://news.ycombinator.com/item?id=6916860)
+
 [choose-wisely]: /assets/images/choose-wisely.jpg
