@@ -8,24 +8,25 @@ html { display: flex;}
 body { width: 100%;}
 
 footer.footer {
-  padding: 10px 0;
-  background: #f8f8f8;
-  border: 1px solid #e7e7e7;
+	margin-top: 16px;
+	padding: 10px 0;
+	background: #f8f8f8;
+	border: 1px solid #e7e7e7;
 }
 
 .contact-list,
 .post-list,
 .social-media-list {
-  list-style: none;
-  margin-left: 0;
+	list-style: none;
+	margin-left: 0;
 }
 
 .sfooter {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 .sfooter-content {
-  flex: 1 0 auto;
+	flex: 1 0 auto;
 }
