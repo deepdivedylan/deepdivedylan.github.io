@@ -31,4 +31,10 @@ It is a question of liberty to be able to privately communicate with one's
 contacts and be free of eavesdroppers and trust the only parties in the
 conversation are the people directly involved, no more, no less.
 
+## Government Privacy
+
+<div class="embed-responsive embed-responsive-16by9">
+	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XEVlyP4_11M?start=1584" allowfullscreen></iframe>
+</div>
+
 [hillary]: /assets/images/hillary.jpg
