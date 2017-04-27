@@ -50,4 +50,13 @@ requires both sides manually install OTR plugins
 beginning to look long in the tooth
 {: .fa-ul}
 
+## Pretty Good Privacy (PGP) <i class="fa fa-apple"></i> <i class="fa fa-android"></i> <i class="fa fa-linux"></i> <i class="fa fa-windows"></i>
+* <i class="fa fa-li fa-thumbs-o-up"></i> first ever secure messaging application
+is still secure after nearly three decades and used in industry
+* <i class="fa fa-li fa-thumbs-o-down"></i> trust model extremely confusing to
+the average end user
+* <i class="fa fa-li fa-hand-o-right"></i> PGP has never compromised security
+for convenience, and it shows
+{: .fa-ul}
+
 [choose-wisely]: /assets/images/choose-wisely.jpg
