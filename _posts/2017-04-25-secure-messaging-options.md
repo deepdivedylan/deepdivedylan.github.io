@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Secure Messaging Options"
-date:   2017-04-25 20:00:00 -0600
+date:   2017-04-25 19:00:00 -0600
 categories: secure-messaging
 ---
 ## Choosing an App that Encrypts

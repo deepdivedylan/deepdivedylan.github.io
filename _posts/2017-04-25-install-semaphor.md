@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Install Semaphor"
-date:   2017-04-25 19:00:00 -0600
+date:   2017-04-25 18:00:00 -0600
 categories: secure-messaging
 ---
 Talking about security is useless without putting it to practice. Today, we will
