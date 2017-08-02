@@ -21,3 +21,24 @@ delay between passcode attempts beyond what is incurred by Apple hardware
 The order also specifies that Apple's assistance may include providing software
 to the FBI that will be coded by Apple with a unique identifier of the phone so
 that the software would only load and execute on the SUBJECT DEVICE.
+
+## Opposition
+
+Apple immediately opposed this order citing that it would not compromise the
+security of its products and put its end users at risk. CEO Tim Cook then
+[wrote a letter](https://www.apple.com/customer-letter/) explaining the
+opposition to the FBI's order to the public. In particular, he said:
+
+>The government is asking Apple to hack our own users and undermine decades of
+security advancements that protect our customers---including tens of millions of
+American citizens---from sophisticated hackers and cybercriminals. The same
+engineers who built strong encryption into the iPhone to protect our users
+would, ironically, be ordered to weaken those protections and make our users
+less safe.
+
+The FBI then urgently petitioned the courts to order Apple to comply with the
+order by loading a temporary operating system in memory only. Apple still
+refused. Shortly after, the FBI was able to exploit a zero day vulnerability
+to unlock the phone without decrypting the phone at all.
+
+## Significance
