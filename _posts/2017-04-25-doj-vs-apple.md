@@ -42,3 +42,22 @@ refused. Shortly after, the FBI was able to exploit a zero day vulnerability
 to unlock the phone without decrypting the phone at all.
 
 ## Significance
+
+There are several very important consequences of this incident:
+
+* _Storage of Private Keys:_ the implication of Apple's reply is that Apple
+somehow has access to the private keys of iOS devices. Apple then improved the
+encryption in iOS 8 (default on iPhone 6 and later).
+* _Government Overreach:_ the FBI essentially demanded a new operating system
+to comply with a government order. If the order had been granted, encryption
+would have been effectively disabled by taking strong encryption from the
+hands of law abiding citizens.
+* _Preserving the Greater Good:_ if encryption is compromised either legally
+or technically, only the terrorists will have strong encryption. The law abiding
+world needs encryption to protect their privacy and security.
+
+>Count me in as somebody who is a very strong civil libertarian, who believes
+that we can fight terrorism without undermining our constitutional rights and
+our privacy rights.
+>
+--Bernie Sanders
