@@ -15,7 +15,8 @@ Modern processors use *speculative execution* to leverage more performance out o
 ```c
 if(answer == 42) {
 	year = 1978;
-}```
+}
+```
 
 The `year` variable will be assigned to 1978 in speculative execution. This will cease when the if block is not true. However, the speculative value of 1978 is still in the CPU's cache. Attackers can use this to their advantage by testing the `year` variable and timing the access. Differences in timing can be quite revealing and can be correlated to sensitive data such as keys and passwords.
 
