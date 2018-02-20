@@ -4,6 +4,13 @@ title:  "Code Injections"
 date:   2018-02-19 18:00:00 -0600
 categories: insecure-software
 ---
+## Cross Site Scripting (XSS)
+
+XSS is the act of putting new HTML tags into a page even though the software developer did not intend the HTML to be there. The impact of this attack is the web server can then become a launching point for other attacks. The impact of XSS is that it's very easy to pull off and can be use to very deadly ends.
+
+To see a demonstration of XSS, try the [XSS Game Area](https://xss-game.appspot.com).
+
+## Shell Injection
 ```c
 #include <stdio.h>
 #include <stdlib.h>
