@@ -11,6 +11,9 @@ XSS is the act of putting new HTML tags into a page even though the software dev
 To see a demonstration of XSS, try the [XSS Game Area](https://xss-game.appspot.com).
 
 ## Shell Injection
+
+The following code, when used as designed, will display a random quote from the Unix `fortune` program. However, an attacker can stop the command with a ; character to chain another command when asked for a "random" topic for their fortune.
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
