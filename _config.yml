@@ -17,9 +17,9 @@ author: Dylan McDonald
 title: Secure Messaging in an Insecure World
 email: dylan@deepdivedylan.io
 description: > # this means to ignore newlines until "baseurl:"
-  Recent events have stepped up the urgency needed for secure methods of keeping
-  in contact with your friends, family, and business contacts in a secure method.
-  What can we do to protect ourselves while not giving up ease of use?
+  Recent events have stepped up the urgency needed for secure software
+  development. Find out about common errors software developers make and what
+  you can do to avoid them.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: deepdivedylan
