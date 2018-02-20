@@ -5,7 +5,7 @@ permalink: /about-me/
 ---
 <div class="row">
 	<div class="col-md-6">
-		<img class="img-responsive" src="/assets/images/deepdivedylan.png" />
+		<img class="img-fluid" src="/assets/images/deepdivedylan.png" />
 	</div>
 	<div class="col-md-6">
 		Dylan McDonald is the instructor of the CNM STEMulus Deep Dive Fullstack
