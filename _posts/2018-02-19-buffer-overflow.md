@@ -25,3 +25,5 @@ int main(int argc, char **argv) {
 	return 0;
 }
 ```
+
+The code will copy the string *excessive* to the buffer which exceeds the capacity by two bytes. The last two bytes of the string will overflow into the adjacent `year` variable and `0x6500` will be overwritten into the `year` variable which will evaluate to 25856. This same principle, and indeed same error with the `strcpy` function, is what caused the heartbleed bug in 2014.
