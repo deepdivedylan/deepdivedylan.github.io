@@ -9,3 +9,19 @@ categories: insecure-software
 [XKCD Heartbleed](https://xkcd.com/1354/)
 
 [xkcd]: /assets/images/xkcd-heartbleed.png
+
+## Example Code
+
+```c
+#include <stdio.h>
+#include <string.h>
+
+int main(int argc, char **argv) {
+	char buffer[8];
+	unsigned short year = 1968;
+
+	strcpy(buffer, "excessive");
+	printf("year: %d\n", year);
+	return 0;
+}
+```
