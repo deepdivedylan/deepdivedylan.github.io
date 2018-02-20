@@ -14,6 +14,6 @@ categories: insecure-software
 
 Equifax was caused by a vulnerability in [Apache Struts](https://struts.apache.org/). Despite the fact Apache fixed the vulnerability within mere hours, Equifax arrogantly ignored the warnings for months. Attackers discovered the vulnerable version and ran off with the data. Fixing software vulnerabilities is useless if affected individuals don't update.
 
-[equifax] : /assets/images/equifax-baby.jpg
+[equifax]: /assets/images/equifax-baby.jpg
 
 [xkcd]: /assets/images/xkcd-cve.png
