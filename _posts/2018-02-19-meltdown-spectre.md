@@ -4,9 +4,9 @@ title:  "Meltdown and Spectre"
 date:   2018-02-19 20:00:00 -0600
 categories: insecure-software
 ---
-![XKCD CVE][xkcd]{: .img-fluid}
+![XKCD Meltdown and Spectre][xkcd]{: .img-fluid}
 
-[XKCD CVE Database](https://xkcd.com/1938/)
+[XKCD Meltdown and Spectre](https://xkcd.com/1938/)
 
 ## The Problem
 
