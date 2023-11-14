@@ -4,7 +4,7 @@
   <h3 class="tw-text-3xl lg:tw-text-center"><em>{{ formattedDate }}</em></h3>
 </template>
 <script setup>
-const date = new Date(2023, 10, 13, 0,0, 0, 0);
+const date = new Date(2023, 10, 14, 0,0, 0, 0);
 const formattedDate = new Intl.DateTimeFormat('default', {
   year: 'numeric',
   month: 'long',
