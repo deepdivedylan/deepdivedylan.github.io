@@ -31,12 +31,7 @@
               tw-focus:outline-none focus:text-gray-400
             "
           >
-            <svg viewBox="0 0 24 24" class="tw-w-6 tw-h-6 tw-fill-current">
-              <path
-                  fill-rule="evenodd"
-                  d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z"
-              ></path>
-            </svg>
+            <Bars3Icon class="tw-w-6 tw-h-6 tw-fill-current" />
           </button>
         </div>
       </div>
@@ -57,6 +52,7 @@
   </div>
 </template>
 <script setup>
+import { Bars3Icon } from '@heroicons/vue/24/solid';
 import { ref } from 'vue';
 const props = defineProps({
   pages: {
